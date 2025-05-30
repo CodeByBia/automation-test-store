@@ -1,0 +1,7 @@
+Feature: Teste de Links Quebrados # features/feature_files/link_quebrado.feature:1
+
+  Scenario: Verificar links do footer    # features/feature_files/link_quebrado.feature:3
+    Given que estou na página inicial    # features/steps/common_steps.py:4
+    When verifico os links do footer     # features/steps/link_quebrado_steps.py:4
+    Then nenhum link deve estar quebrado # features/steps/link_quebrado_steps.py:8
+
