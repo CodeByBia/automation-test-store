@@ -1,7 +1,7 @@
 import time
 from behave import given, when, then
 from features.helpers.driver import get_driver
-from features.pages.treinamento_page import *
+from features.pages.campoQuantidade_page import *
 
 @given('que o user está na home page')
 def ir_para_home_step(context):

@@ -1,7 +1,7 @@
 import time
 from behave import given, when, then
 from features.helpers.driver import get_driver
-from features.pages.treinamento_page import *
+from features.pages.logo_page import *
 
 
 @given(u'que o user está em uma página diferente da home page')
