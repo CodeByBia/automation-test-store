@@ -1,0 +1,833 @@
+[
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "ChromeDriverManager",
+        "importPath": "webdriver_manager.chrome",
+        "description": "webdriver_manager.chrome",
+        "isExtraImport": true,
+        "detail": "webdriver_manager.chrome",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "init_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "quit_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "LinkQuebradoPage",
+        "importPath": "features.pages.link_quebrado_page",
+        "description": "features.pages.link_quebrado_page",
+        "isExtraImport": true,
+        "detail": "features.pages.link_quebrado_page",
+        "documentation": {}
+    },
+    {
+        "label": "TreinamentoPage",
+        "importPath": "features.pages.treinamento_page",
+        "description": "features.pages.treinamento_page",
+        "isExtraImport": true,
+        "detail": "features.pages.treinamento_page",
+        "documentation": {}
+    },
+    {
+        "label": "PesquisaPage",
+        "importPath": "features.pages.pesquisa_page",
+        "description": "features.pages.pesquisa_page",
+        "isExtraImport": true,
+        "detail": "features.pages.pesquisa_page",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "importPath": "behave.model_core",
+        "description": "behave.model_core",
+        "isExtraImport": true,
+        "detail": "behave.model_core",
+        "documentation": {}
+    },
+    {
+        "label": "init_driver",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.helpers.driver",
+        "description": "Evaldo_Janio.features.helpers.driver",
+        "peekOfCode": "def init_driver(headless=False):\n    global _driver\n    if _driver is not None:\n        return _driver\n    options = Options()\n    options.add_argument(\"--start-maximized\")\n    options.add_argument(\"--disable-notifications\")\n    if headless:\n        options.add_argument(\"--headless=new\")\n    service = Service(ChromeDriverManager().install())",
+        "detail": "Evaldo_Janio.features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.helpers.driver",
+        "description": "Evaldo_Janio.features.helpers.driver",
+        "peekOfCode": "def get_driver():\n    if _driver is None:\n        raise RuntimeError(\"Driver não inicializado. Chame init_driver() primeiro.\")\n    return _driver\ndef quit_driver():\n    global _driver\n    if _driver is not None:\n        _driver.quit()\n        _driver = None",
+        "detail": "Evaldo_Janio.features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "quit_driver",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.helpers.driver",
+        "description": "Evaldo_Janio.features.helpers.driver",
+        "peekOfCode": "def quit_driver():\n    global _driver\n    if _driver is not None:\n        _driver.quit()\n        _driver = None",
+        "detail": "Evaldo_Janio.features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "_driver",
+        "kind": 5,
+        "importPath": "Evaldo_Janio.features.helpers.driver",
+        "description": "Evaldo_Janio.features.helpers.driver",
+        "peekOfCode": "_driver = None\ndef init_driver(headless=False):\n    global _driver\n    if _driver is not None:\n        return _driver\n    options = Options()\n    options.add_argument(\"--start-maximized\")\n    options.add_argument(\"--disable-notifications\")\n    if headless:\n        options.add_argument(\"--headless=new\")",
+        "detail": "Evaldo_Janio.features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "kind": 6,
+        "importPath": "Evaldo_Janio.features.pages.base_page",
+        "description": "Evaldo_Janio.features.pages.base_page",
+        "peekOfCode": "class BasePage:\n    def __init__(self, driver):\n        self.driver = driver\n        self.wait = WebDriverWait(driver, 10)\n    def click(self, by, locator):\n        self.wait.until(EC.element_to_be_clickable((by, locator))).click()\n    def send_keys(self, text, by, locator):\n        element = self.wait.until(EC.visibility_of_element_located((by, locator)))\n        element.clear()\n        element.send_keys(text)",
+        "detail": "Evaldo_Janio.features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "CarrinhoPage",
+        "kind": 6,
+        "importPath": "Evaldo_Janio.features.pages.carrinho_page",
+        "description": "Evaldo_Janio.features.pages.carrinho_page",
+        "peekOfCode": "class CarrinhoPage(BasePage):\n    ADD_TO_CART_BTN = (By.CSS_SELECTOR, \"a[title='Add to Cart']\")\n    CART_ITEMS = (By.CSS_SELECTOR, \".cart_contents\")\n    def adicionar_produto(self):\n        self.click(*self.ADD_TO_CART_BTN)\n    def item_no_carrinho(self):\n        return self.is_visible(*self.CART_ITEMS)",
+        "detail": "Evaldo_Janio.features.pages.carrinho_page",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaPage",
+        "kind": 6,
+        "importPath": "Evaldo_Janio.features.pages.categoria_page",
+        "description": "Evaldo_Janio.features.pages.categoria_page",
+        "peekOfCode": "class CategoriaPage(BasePage):\n    CATEGORY_LINK = (By.CSS_SELECTOR, \"a[href*='path=52']\")\n    CATEGORY_TITLE = (By.CSS_SELECTOR, \".maintext\")\n    def acessar_categoria(self):\n        self.click(*self.CATEGORY_LINK)\n    def categoria_carregada(self):\n        return \"Hair Care\" in self.get_text(*self.CATEGORY_TITLE)",
+        "detail": "Evaldo_Janio.features.pages.categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "LinkQuebradoPage",
+        "kind": 6,
+        "importPath": "Evaldo_Janio.features.pages.link_quebrado_page",
+        "description": "Evaldo_Janio.features.pages.link_quebrado_page",
+        "peekOfCode": "class LinkQuebradoPage:\n    def __init__(self, driver):\n        self.driver = driver\n    def get_all_links(self):\n        return self.driver.find_elements(By.CSS_SELECTOR, \"#footer a\")\n    def verificar_link(self, url):\n        try:\n            response = requests.head(url, timeout=5)\n            return response.status_code == 200\n        except:",
+        "detail": "Evaldo_Janio.features.pages.link_quebrado_page",
+        "documentation": {}
+    },
+    {
+        "label": "LoginPage",
+        "kind": 6,
+        "importPath": "Evaldo_Janio.features.pages.login_page",
+        "description": "Evaldo_Janio.features.pages.login_page",
+        "peekOfCode": "class LoginPage(BasePage):\n    USERNAME_INPUT = (By.ID, \"loginFrm_loginname\")\n    PASSWORD_INPUT = (By.ID, \"loginFrm_password\")\n    LOGIN_BUTTON = (By.CSS_SELECTOR, \"button[title='Login']\")\n    ERROR_MSG = (By.CSS_SELECTOR, \".alert-danger\")\n    WELCOME_MSG = (By.XPATH, \"//*[contains(text(), 'Welcome back')]\")\n    def fazer_login(self, usuario, senha):\n        self.send_keys(usuario, *self.USERNAME_INPUT)\n        self.send_keys(senha, *self.PASSWORD_INPUT)\n        self.click(*self.LOGIN_BUTTON)",
+        "detail": "Evaldo_Janio.features.pages.login_page",
+        "documentation": {}
+    },
+    {
+        "label": "PesquisaPage",
+        "kind": 6,
+        "importPath": "Evaldo_Janio.features.pages.pesquisa_page",
+        "description": "Evaldo_Janio.features.pages.pesquisa_page",
+        "peekOfCode": "class PesquisaPage(BasePage):\n    SEARCH_INPUT = (By.NAME, \"filter_keyword\")\n    SEARCH_BUTTON = (By.CSS_SELECTOR, \"div.button-in-search\")\n    def acessar_site(self):\n        self.driver.get(\"https://automationteststore.com/\")\n    def pesquisar_produto(self, termo):\n        self.send_keys(termo, *self.SEARCH_INPUT)\n        self.click(*self.SEARCH_BUTTON)\n    def resultado_contem_termo(self, termo):\n        return termo.lower() in self.driver.page_source.lower()",
+        "detail": "Evaldo_Janio.features.pages.pesquisa_page",
+        "documentation": {}
+    },
+    {
+        "label": "TermoInvalidoPage",
+        "kind": 6,
+        "importPath": "Evaldo_Janio.features.pages.termo_invalido_page",
+        "description": "Evaldo_Janio.features.pages.termo_invalido_page",
+        "peekOfCode": "class TermoInvalidoPage(BasePage):\n    SEARCH_INPUT = (By.NAME, \"filter_keyword\")\n    SEARCH_BUTTON = (By.CSS_SELECTOR, \"div.button-in-search\")\n    NO_RESULTS_MSG = (By.CSS_SELECTOR, \".contentpanel\")\n    def pesquisar_termo_invalido(self, termo):\n        self.send_keys(termo, *self.SEARCH_INPUT)\n        self.click(*self.SEARCH_BUTTON)\n    def mensagem_sem_resultados(self):\n        return \"No results\" in self.get_text(*self.NO_RESULTS_MSG)",
+        "detail": "Evaldo_Janio.features.pages.termo_invalido_page",
+        "documentation": {}
+    },
+    {
+        "label": "TreinamentoPage",
+        "kind": 6,
+        "importPath": "Evaldo_Janio.features.pages.treinamento_page",
+        "description": "Evaldo_Janio.features.pages.treinamento_page",
+        "peekOfCode": "class TreinamentoPage(BasePage):\n    # Locators\n    LOGIN_LINK = (By.LINK_TEXT, \"Login or register\")\n    USERNAME_INPUT = (By.ID, \"loginFrm_loginname\")\n    PASSWORD_INPUT = (By.ID, \"loginFrm_password\")\n    LOGIN_BUTTON = (By.CSS_SELECTOR, \"button[title='Login']\")\n    WELCOME_MESSAGE = (By.XPATH, \"//*[contains(text(), 'Welcome back')]\")\n    ERROR_MESSAGE = (By.CSS_SELECTOR, \".alert-danger\")\n    def acessar_pagina_login(self):\n        self.click(*self.LOGIN_LINK)",
+        "detail": "Evaldo_Janio.features.pages.treinamento_page",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_pagina_inicial",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.carrinho_steps",
+        "description": "Evaldo_Janio.features.steps.carrinho_steps",
+        "peekOfCode": "def acessar_pagina_inicial(context):\n    get_driver().get(\"https://automationteststore.com/\")\n@when(u'ele adiciona o primeiro produto ao carrinho')\ndef adicionar_ao_carrinho(context):\n    base_page = BasePage(get_driver())\n    base_page.click(By.CSS_SELECTOR, \".fixed_wrapper .prdocutname\")\n    base_page.click(By.CSS_SELECTOR, \"a.cart\")\n@then(u'o produto deve aparecer no carrinho')\ndef verificar_produto_no_carrinho(context):\n    base_page = BasePage(get_driver())",
+        "detail": "Evaldo_Janio.features.steps.carrinho_steps",
+        "documentation": {}
+    },
+    {
+        "label": "adicionar_ao_carrinho",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.carrinho_steps",
+        "description": "Evaldo_Janio.features.steps.carrinho_steps",
+        "peekOfCode": "def adicionar_ao_carrinho(context):\n    base_page = BasePage(get_driver())\n    base_page.click(By.CSS_SELECTOR, \".fixed_wrapper .prdocutname\")\n    base_page.click(By.CSS_SELECTOR, \"a.cart\")\n@then(u'o produto deve aparecer no carrinho')\ndef verificar_produto_no_carrinho(context):\n    base_page = BasePage(get_driver())\n    assert base_page.is_visible(By.ID, \"cart_quantity50\"), \"Produto não foi adicionado ao carrinho.\"",
+        "detail": "Evaldo_Janio.features.steps.carrinho_steps",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_produto_no_carrinho",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.carrinho_steps",
+        "description": "Evaldo_Janio.features.steps.carrinho_steps",
+        "peekOfCode": "def verificar_produto_no_carrinho(context):\n    base_page = BasePage(get_driver())\n    assert base_page.is_visible(By.ID, \"cart_quantity50\"), \"Produto não foi adicionado ao carrinho.\"",
+        "detail": "Evaldo_Janio.features.steps.carrinho_steps",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_pagina_inicial",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.categoria_steps",
+        "description": "Evaldo_Janio.features.steps.categoria_steps",
+        "peekOfCode": "def acessar_pagina_inicial(context):\n    get_driver().get(\"https://automationteststore.com/\")\n@when(u'ele clica na categoria \"Hair Care\"')\ndef clicar_categoria(context):\n    base_page = BasePage(get_driver())\n    base_page.click(By.CSS_SELECTOR, \"a[href*='category&path=52']\")\n@then(u'os produtos da categoria devem ser exibidos')\ndef verificar_produtos_categoria(context):\n    base_page = BasePage(get_driver())\n    produtos = base_page.get_text(By.CSS_SELECTOR, \".contentpanel\")",
+        "detail": "Evaldo_Janio.features.steps.categoria_steps",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_categoria",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.categoria_steps",
+        "description": "Evaldo_Janio.features.steps.categoria_steps",
+        "peekOfCode": "def clicar_categoria(context):\n    base_page = BasePage(get_driver())\n    base_page.click(By.CSS_SELECTOR, \"a[href*='category&path=52']\")\n@then(u'os produtos da categoria devem ser exibidos')\ndef verificar_produtos_categoria(context):\n    base_page = BasePage(get_driver())\n    produtos = base_page.get_text(By.CSS_SELECTOR, \".contentpanel\")\n    assert \"Shampoo\" in produtos, \"Produtos da categoria 'Hair Care' não estão visíveis.\"\n    assert \"Conditioner\" in produtos, \"Produtos da categoria 'Hair Care' não estão visíveis.\"",
+        "detail": "Evaldo_Janio.features.steps.categoria_steps",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_produtos_categoria",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.categoria_steps",
+        "description": "Evaldo_Janio.features.steps.categoria_steps",
+        "peekOfCode": "def verificar_produtos_categoria(context):\n    base_page = BasePage(get_driver())\n    produtos = base_page.get_text(By.CSS_SELECTOR, \".contentpanel\")\n    assert \"Shampoo\" in produtos, \"Produtos da categoria 'Hair Care' não estão visíveis.\"\n    assert \"Conditioner\" in produtos, \"Produtos da categoria 'Hair Care' não estão visíveis.\"",
+        "detail": "Evaldo_Janio.features.steps.categoria_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.link_quebrado_steps",
+        "description": "Evaldo_Janio.features.steps.link_quebrado_steps",
+        "peekOfCode": "def step_impl(context):\n    context.link_page = LinkQuebradoPage(context.driver)\n    context.links = context.link_page.get_all_links()\n@then('nenhum link está quebrado')\ndef step_impl(context):\n    broken_links = []\n    for link in context.links:\n        url = link.get_attribute('href')\n        if url and url.startswith('http'):\n            status = context.link_page.verificar_status_link(url)",
+        "detail": "Evaldo_Janio.features.steps.link_quebrado_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.link_quebrado_steps",
+        "description": "Evaldo_Janio.features.steps.link_quebrado_steps",
+        "peekOfCode": "def step_impl(context):\n    broken_links = []\n    for link in context.links:\n        url = link.get_attribute('href')\n        if url and url.startswith('http'):\n            status = context.link_page.verificar_status_link(url)\n            if status == 404:\n                broken_links.append(url)\n    assert len(broken_links) == 0",
+        "detail": "Evaldo_Janio.features.steps.link_quebrado_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.login_steps",
+        "description": "Evaldo_Janio.features.steps.login_steps",
+        "peekOfCode": "def step_impl(context, usuario, senha):\n    context.login_page = TreinamentoPage(context.driver)\n    context.login_page.preencher_credenciais(usuario, senha)\n@when('clico no botão de login')\ndef step_impl(context):\n    context.login_page.clicar_login()\n@then('vejo a mensagem \"{mensagem}\"')\ndef step_impl(context, mensagem):\n    if \"Error\" in mensagem:\n        assert context.login_page.mensagem_erro_visivel()",
+        "detail": "Evaldo_Janio.features.steps.login_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.login_steps",
+        "description": "Evaldo_Janio.features.steps.login_steps",
+        "peekOfCode": "def step_impl(context):\n    context.login_page.clicar_login()\n@then('vejo a mensagem \"{mensagem}\"')\ndef step_impl(context, mensagem):\n    if \"Error\" in mensagem:\n        assert context.login_page.mensagem_erro_visivel()\n    else:\n        assert context.login_page.mensagem_bem_vindo_visivel()",
+        "detail": "Evaldo_Janio.features.steps.login_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.login_steps",
+        "description": "Evaldo_Janio.features.steps.login_steps",
+        "peekOfCode": "def step_impl(context, mensagem):\n    if \"Error\" in mensagem:\n        assert context.login_page.mensagem_erro_visivel()\n    else:\n        assert context.login_page.mensagem_bem_vindo_visivel()",
+        "detail": "Evaldo_Janio.features.steps.login_steps",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_pagina_inicial",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.pesquisa_steps",
+        "description": "Evaldo_Janio.features.steps.pesquisa_steps",
+        "peekOfCode": "def acessar_pagina_inicial(context):\n    get_driver().get(\"https://automationteststore.com/\")\n@when(u'ele pesquisa por \"shampoo\"')\ndef pesquisar_produto(context):\n    base_page = BasePage(get_driver())\n    base_page.send_keys(\"shampoo\", By.NAME, \"filter_keyword\")\n    base_page.click(By.CSS_SELECTOR, \"div.button-in-search\")\n@then(u'os resultados da pesquisa devem conter o termo \"shampoo\"')\ndef verificar_resultados_pesquisa(context):\n    base_page = BasePage(get_driver())",
+        "detail": "Evaldo_Janio.features.steps.pesquisa_steps",
+        "documentation": {}
+    },
+    {
+        "label": "pesquisar_produto",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.pesquisa_steps",
+        "description": "Evaldo_Janio.features.steps.pesquisa_steps",
+        "peekOfCode": "def pesquisar_produto(context):\n    base_page = BasePage(get_driver())\n    base_page.send_keys(\"shampoo\", By.NAME, \"filter_keyword\")\n    base_page.click(By.CSS_SELECTOR, \"div.button-in-search\")\n@then(u'os resultados da pesquisa devem conter o termo \"shampoo\"')\ndef verificar_resultados_pesquisa(context):\n    base_page = BasePage(get_driver())\n    resultados = base_page.get_text(By.CSS_SELECTOR, \".fixed_wrapper .prdocutname\")\n    assert \"shampoo\" in resultados.lower(), f\"Esperado: 'shampoo' nos resultados. Recebido: {resultados}\"",
+        "detail": "Evaldo_Janio.features.steps.pesquisa_steps",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_resultados_pesquisa",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.pesquisa_steps",
+        "description": "Evaldo_Janio.features.steps.pesquisa_steps",
+        "peekOfCode": "def verificar_resultados_pesquisa(context):\n    base_page = BasePage(get_driver())\n    resultados = base_page.get_text(By.CSS_SELECTOR, \".fixed_wrapper .prdocutname\")\n    assert \"shampoo\" in resultados.lower(), f\"Esperado: 'shampoo' nos resultados. Recebido: {resultados}\"",
+        "detail": "Evaldo_Janio.features.steps.pesquisa_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_acessar_pagina",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.termo_invalido_steps",
+        "description": "Evaldo_Janio.features.steps.termo_invalido_steps",
+        "peekOfCode": "def step_acessar_pagina(context):\n    context.page = PesquisaPage(context.driver)\n    context.page.acessar_site()\n@when('pesquiso pelo termo \"{termo}\"')\ndef step_pesquisar_produto(context, termo):\n    context.page.pesquisar_produto(termo)\n@then('devo ver a mensagem \"Products meeting the search criteria\"')\ndef step_verificar_mensagem(context):\n    assert \"Products meeting the search criteria\" in context.driver.page_source",
+        "detail": "Evaldo_Janio.features.steps.termo_invalido_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_pesquisar_produto",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.termo_invalido_steps",
+        "description": "Evaldo_Janio.features.steps.termo_invalido_steps",
+        "peekOfCode": "def step_pesquisar_produto(context, termo):\n    context.page.pesquisar_produto(termo)\n@then('devo ver a mensagem \"Products meeting the search criteria\"')\ndef step_verificar_mensagem(context):\n    assert \"Products meeting the search criteria\" in context.driver.page_source",
+        "detail": "Evaldo_Janio.features.steps.termo_invalido_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_verificar_mensagem",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.termo_invalido_steps",
+        "description": "Evaldo_Janio.features.steps.termo_invalido_steps",
+        "peekOfCode": "def step_verificar_mensagem(context):\n    assert \"Products meeting the search criteria\" in context.driver.page_source",
+        "detail": "Evaldo_Janio.features.steps.termo_invalido_steps",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_pagina_inicial",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.treinamento_steps",
+        "description": "Evaldo_Janio.features.steps.treinamento_steps",
+        "peekOfCode": "def acessar_pagina_inicial(context):\n    get_driver().get(\"https://automationteststore.com/\")\n@given(u'clique em \"Login or register\"')\ndef clicar_login_register(context):\n    base_page = BasePage(get_driver())\n    base_page.click(By.LINK_TEXT, \"Login or register\")\n@given(u'esteja na página de login')\ndef verificar_pagina_login(context):\n    base_page = BasePage(get_driver())\n    assert base_page.is_visible(By.ID, \"loginFrm_loginname\"), \"Campo Username não encontrado.\"",
+        "detail": "Evaldo_Janio.features.steps.treinamento_steps",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_login_register",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.treinamento_steps",
+        "description": "Evaldo_Janio.features.steps.treinamento_steps",
+        "peekOfCode": "def clicar_login_register(context):\n    base_page = BasePage(get_driver())\n    base_page.click(By.LINK_TEXT, \"Login or register\")\n@given(u'esteja na página de login')\ndef verificar_pagina_login(context):\n    base_page = BasePage(get_driver())\n    assert base_page.is_visible(By.ID, \"loginFrm_loginname\"), \"Campo Username não encontrado.\"\n@when(u'o usuário preencher o campo \"Username\" com \"usuario_valido\"')\ndef preencher_username(context):\n    base_page = BasePage(get_driver())",
+        "detail": "Evaldo_Janio.features.steps.treinamento_steps",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_pagina_login",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.treinamento_steps",
+        "description": "Evaldo_Janio.features.steps.treinamento_steps",
+        "peekOfCode": "def verificar_pagina_login(context):\n    base_page = BasePage(get_driver())\n    assert base_page.is_visible(By.ID, \"loginFrm_loginname\"), \"Campo Username não encontrado.\"\n@when(u'o usuário preencher o campo \"Username\" com \"usuario_valido\"')\ndef preencher_username(context):\n    base_page = BasePage(get_driver())\n    base_page.send_keys(\"Testeautomaçao\", By.ID, \"loginFrm_loginname\")\n@when(u'preencher o campo \"Password\" com \"senha_valida\"')\ndef preencher_password(context):\n    base_page = BasePage(get_driver())",
+        "detail": "Evaldo_Janio.features.steps.treinamento_steps",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_username",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.treinamento_steps",
+        "description": "Evaldo_Janio.features.steps.treinamento_steps",
+        "peekOfCode": "def preencher_username(context):\n    base_page = BasePage(get_driver())\n    base_page.send_keys(\"Testeautomaçao\", By.ID, \"loginFrm_loginname\")\n@when(u'preencher o campo \"Password\" com \"senha_valida\"')\ndef preencher_password(context):\n    base_page = BasePage(get_driver())\n    base_page.send_keys(\"123456teste\", By.ID, \"loginFrm_password\")\n@when(u'clicar no botão \"Login\"')\ndef clicar_login(context):\n    base_page = BasePage(get_driver())",
+        "detail": "Evaldo_Janio.features.steps.treinamento_steps",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_password",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.treinamento_steps",
+        "description": "Evaldo_Janio.features.steps.treinamento_steps",
+        "peekOfCode": "def preencher_password(context):\n    base_page = BasePage(get_driver())\n    base_page.send_keys(\"123456teste\", By.ID, \"loginFrm_password\")\n@when(u'clicar no botão \"Login\"')\ndef clicar_login(context):\n    base_page = BasePage(get_driver())\n    base_page.click(By.CSS_SELECTOR, \"button[title='Login']\")\n@then(u'o usuário deve ver a mensagem \"Welcome back\"')\ndef verificar_mensagem_welcome_back(context):\n    base_page = BasePage(get_driver())",
+        "detail": "Evaldo_Janio.features.steps.treinamento_steps",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_login",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.treinamento_steps",
+        "description": "Evaldo_Janio.features.steps.treinamento_steps",
+        "peekOfCode": "def clicar_login(context):\n    base_page = BasePage(get_driver())\n    base_page.click(By.CSS_SELECTOR, \"button[title='Login']\")\n@then(u'o usuário deve ver a mensagem \"Welcome back\"')\ndef verificar_mensagem_welcome_back(context):\n    base_page = BasePage(get_driver())\n    message = base_page.get_text(By.XPATH, \"//*[contains(text(), 'Welcome back')]\")\n    assert \"Welcome back\" in message, f\"Mensagem esperada: 'Welcome back', mas recebeu: {message}\"",
+        "detail": "Evaldo_Janio.features.steps.treinamento_steps",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_mensagem_welcome_back",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.steps.treinamento_steps",
+        "description": "Evaldo_Janio.features.steps.treinamento_steps",
+        "peekOfCode": "def verificar_mensagem_welcome_back(context):\n    base_page = BasePage(get_driver())\n    message = base_page.get_text(By.XPATH, \"//*[contains(text(), 'Welcome back')]\")\n    assert \"Welcome back\" in message, f\"Mensagem esperada: 'Welcome back', mas recebeu: {message}\"",
+        "detail": "Evaldo_Janio.features.steps.treinamento_steps",
+        "documentation": {}
+    },
+    {
+        "label": "before_scenario",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.environment",
+        "description": "Evaldo_Janio.features.environment",
+        "peekOfCode": "def before_scenario(context, scenario):\n    context.driver = init_driver()  # Inicializa o driver\ndef after_scenario(context, scenario):\n    if scenario.status == Status.failed:\n        context.driver.save_screenshot(f\"failed_{scenario.name}.png\")\n    quit_driver()  # Encerra o driver corretamente",
+        "detail": "Evaldo_Janio.features.environment",
+        "documentation": {}
+    },
+    {
+        "label": "after_scenario",
+        "kind": 2,
+        "importPath": "Evaldo_Janio.features.environment",
+        "description": "Evaldo_Janio.features.environment",
+        "peekOfCode": "def after_scenario(context, scenario):\n    if scenario.status == Status.failed:\n        context.driver.save_screenshot(f\"failed_{scenario.name}.png\")\n    quit_driver()  # Encerra o driver corretamente",
+        "detail": "Evaldo_Janio.features.environment",
+        "documentation": {}
+    }
+]
